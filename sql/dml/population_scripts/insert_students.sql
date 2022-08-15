@@ -1,0 +1,1 @@
+INSERT INTO students VALUES ({0}, '{1}', {2}, '{3}', STR_TO_DATE('{4}', '%Y-%m-%dT%T.%f'));

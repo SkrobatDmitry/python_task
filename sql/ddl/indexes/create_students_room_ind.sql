@@ -1,0 +1,1 @@
+CREATE INDEX students_room ON students (room);

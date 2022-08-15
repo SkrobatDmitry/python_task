@@ -1,0 +1,7 @@
+database_path:
+  tables: sql/ddl/tables/
+  indexes: sql/ddl/indexes/
+  inserts: sql/dml/population_scripts/
+  selects: sql/ddl/selects/
+
+result_path: results/

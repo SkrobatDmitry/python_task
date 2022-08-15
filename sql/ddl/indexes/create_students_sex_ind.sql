@@ -1,0 +1,1 @@
+CREATE INDEX students_sex ON students (sex);

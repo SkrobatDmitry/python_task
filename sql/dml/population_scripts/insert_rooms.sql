@@ -1,0 +1,1 @@
+INSERT INTO rooms VALUES ({0}, '{1}');
